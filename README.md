@@ -17,4 +17,4 @@ This repository contains our solution for **ImmunoQuest**, a deep learning hacka
    ```
    team_immuno_solvers.ipynb
    ```
-3. Build your ownn model by tuning the hyperparameters.
+3. Build your own model by tuning the hyperparameters.
