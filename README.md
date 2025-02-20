@@ -11,7 +11,7 @@ This repository contains our solution for **ImmunoQuest**, a deep learning hacka
 ## 🚀 How to Run  
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/yourusername/ImmunoQuest-WBC-Classification.git
+   git clone https://github.com/yourusername/ImmunoQuest.git
    ```
 2. Get the file:
    ```
