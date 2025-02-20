@@ -7,11 +7,6 @@ This repository contains our solution for **ImmunoQuest**, a deep learning hacka
 2. **Final Model:** We switched to **MobileNetV2**, which significantly improved generalization.  
 3. **Results:** Achieved **~84% accuracy** on both training and validation sets.  
 
-## 📂 Repository Structure  
-- `notebooks/` → Jupyter notebooks with data preprocessing & model training  
-- `models/` → Saved models and weights  
-- `data/` → Sample dataset (if allowed)  
-- `README.md` → This file  
 
 ## 🚀 How to Run  
 1. Clone the repository:  
